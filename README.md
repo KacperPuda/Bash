@@ -3,3 +3,4 @@ Project from Operating Systems course on IT at the Gdansk University Of Technolo
 
 EXPLANATIONS:
 
+DS.SH is a Bash script designed to create simple backups of files or folders using Crontab
