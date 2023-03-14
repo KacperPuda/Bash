@@ -1,5 +1,5 @@
 # Bash
-Project from an Object-oriented programming course on IT at the Gdansk University Of Technology. Java & C++
+Project from Operating Systems course on IT at the Gdansk University Of Technology.
 
 EXPLANATIONS:
 
